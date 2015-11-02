@@ -2,7 +2,6 @@
 layout: post
 title:  "新的博客"
 date:   2015-11-01 14:01:20 -0500
-categories: 闲言
 tags: [博客]
 ---
 
